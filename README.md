@@ -1,13 +1,13 @@
-# COMSOL Portfolio — GitHub Pages upload
+# COMSOL Multiphysics Studies of Silicon Sensors
 
-This package is ready for the root of the public `COMSOL` repository.
+This repository presents my studies of silicon sensors using COMSOL Multiphysics. The simulations explore the sensors’ electrical and thermal behaviour under different operating conditions.
 
-1. Extract this ZIP on your computer.
-2. In GitHub, open `Abhishek28111996/COMSOL` and choose **Add file → Upload files**.
-3. Upload `index.html` and the complete `assets` folder (keep the folder structure).
-4. Commit the upload to the `main` branch.
-5. Open **Settings → Pages**. Under **Build and deployment**, select **Deploy from a branch**.
-6. Select branch **main** and folder **/(root)**, then choose **Save**.
-7. Wait for GitHub Pages to finish deploying. The project site address should be `https://abhishek28111996.github.io/COMSOL/`.
+Topics include:
 
-The GitHub Pages address is a free GitHub subdomain. The URL but uses `github.io`.
+- Temperature and electric-field distributions in silicon sensors
+- Electrothermal response of a sensor and ASIC at base temperatures of 77 K, 149 K, and 300 K
+- Fluence-dependent conductivity and current in silicon sensors
+
+View the portfolio on GitHub Pages: [abhishek28111996.github.io/COMSOL](https://abhishek28111996.github.io/COMSOL/)
+
+The site is hosted on GitHub’s free `github.io` subdomain.
